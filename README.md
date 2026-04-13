@@ -1,4 +1,5 @@
 TI and SBTI Skill: The 2026 Complete Guide to the Super-Big Personality Test
+
 🎯 Key Takeaways (TL;DR)
 SBTI (Super-Big Personality Test) is a humorous yet surprisingly insightful personality framework covering 15 psychological dimensions across 5 models — far more nuanced than MBTI
 An SBTI Skill is a Claude Code extension that runs the entire personality test conversationally, calculates your type, and generates a personalized result image
@@ -6,6 +7,7 @@ The SBTI Skill is open-source, dependency-free (pure Python), and runs on macOS,
 Personality types range from CTRL (The Controller) to DRUNK (The Drunkard), matched using Manhattan distance similarity against a library of 25 archetypes
 The original SBTI test comes from Chinese creator @蛆肉儿串儿 on Bilibili; the Claude Skill was built with AI-assisted coding
 Table of Contents
+
 What is SBTI?
 The 5 Models and 15 Dimensions
 How SBTI Scoring Works
@@ -16,6 +18,7 @@ Core Python Implementation
 How to Use the SBTI Skill
 Sample Output
 Open Source and Credits
+
 FAQ
 What is SBTI?
 SBTI stands for Super-Big Personality Test — a personality framework that originated from Chinese creator @蛆肉儿串儿 on Bilibili. Unlike traditional personality systems like MBTI, which reduces people to 4-letter types based on binary dimensions, SBTI takes a irreverent, meme-laden approach to self-discovery that is both entertaining and surprisingly deep.
