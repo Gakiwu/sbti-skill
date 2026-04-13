@@ -1,5 +1,3 @@
-TI and SBTI Skill: The 2026 Complete Guide to the Super-Big Personality Test
-
 🎯 Key Takeaways (TL;DR)
 SBTI (Super-Big Personality Test) is a humorous yet surprisingly insightful personality framework covering 15 psychological dimensions across 5 models — far more nuanced than MBTI
 An SBTI Skill is a Claude Code extension that runs the entire personality test conversationally, calculates your type, and generates a personalized result image
