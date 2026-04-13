@@ -10,7 +10,7 @@ Personality types range from CTRL (The Controller) to DRUNK (The Drunkard), matc
 
 The original SBTI test comes from Chinese creator @蛆肉儿串儿 on Bilibili; the Claude Skill was built with AI-assisted coding
 
-What is SBTI?
+🎯 What is SBTI?
 
 SBTI stands for Super-Big Personality Test — a personality framework that originated from Chinese creator @蛆肉儿串儿 on Bilibili. Unlike traditional personality systems like MBTI, which reduces people to 4-letter types based on binary dimensions, SBTI takes a irreverent, meme-laden approach to self-discovery that is both entertaining and surprisingly deep.
 
